@@ -1,9 +1,15 @@
 audit_header: false
-title: Richard A. Drews | Attorney at Law
+title:
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
+  - title: Location and Hours
+    url:
+  - title: Practice Areas
+    url:
+  - title: About
+    url:
+  - title: Contact
     url:
 
 client:
@@ -32,9 +38,9 @@ CTAs:
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
-  CTA_title: Looking to Buy a Home?
+  CTA_title: Set up a consultation
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
-  CTA_link_text: Home Search Tool
+  CTA_link_text: Set up a consultation
   CTA_url: /homesearch/
 
 welcome_box:
@@ -72,7 +78,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 20rem
+  logo_width_number: 60rem
   hero_text: Richard A. Drews  |  Attorney at Law
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg

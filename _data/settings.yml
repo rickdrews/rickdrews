@@ -4,14 +4,11 @@ description: 'If you are looking to buy or sell a home, get all the information 
 show_custom_links: true
 custom_links:
   - title: Location and Hours
-    url:
+    url: /location.html
   - title: Practice Areas
-    url:
+    url: /practice-areas.html
   - title: About
-    url:
-  - title: Contact
-    url:
-
+    url: /about.html
 client:
   name: Richard A. Drews
   license_number:
@@ -20,7 +17,7 @@ client:
   market:
   brand:
   brokerage:
-  address: 7018 North 102nd Circle | Omaha, NE 68122
+  address: 7018 North 102nd Circle<br>Omaha, NE 68122
   phone: 402-391-3712
   phone_type:
   phone2:
@@ -39,19 +36,13 @@ CTAs:
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Set up a consultation
-  CTA_text: Search the entire MLS for homes located in -- MARKET --.
+  CTA_text:
   CTA_link_text: Set up a consultation
-  CTA_url: /homesearch/
+  CTA_url:
 
 welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
-
+  welcome_headline:
+  welcome_text_markdown:
 socials:
   review_sm_icons: false
   facebook_url:
@@ -70,7 +61,7 @@ podcast:
   title:
   categories:
   image:
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
+  subtitle:
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'

@@ -2296,8 +2296,9 @@ table tr, table td {
   width: 200px;
   height: 200px;
   border: 3px solid #2C3246;
-  margin: 10px auto 0 6rem;
-  overflow: hidden; }
+  margin: 10px 2rem 2rem 2rem;
+  overflow: hidden;
+  float: left; }
 
 .client-image {
   max-width: 200px; }
@@ -2322,16 +2323,13 @@ table tr, table td {
 
 .footer {
   background: #2c3245;
-  position: fixed;
   width: 100%;
-  left: 0;
-  bottom: 0;
   color: #353535;
   padding: 2rem;
   text-align: center;
   font-size: 18px; }
   .footer hr {
-    border-top: 2px solid #2C3246; }
+    border-top: 2px solid white; }
   .footer address {
     font-style: normal; }
 
@@ -2806,6 +2804,7 @@ form select {
         color: white; }
       .practice-area ul li a {
         text-decoration: none;
+        text-transform: uppercase;
         color: #2C3246; }
         .practice-area ul li a:hover {
           text-decoration: none;
@@ -2820,4 +2819,5 @@ form select {
   font-weight: 300; }
 
 .page {
-  margin-top: 50px; }
+  margin-top: 50px;
+  margin-bottom: 100px; }

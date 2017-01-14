@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: Richard A Drews | Attorney at Law
+description: 'Your Omaha Legal Expert'
 show_custom_links: true
 custom_links:
   - title: Location and Hours
@@ -26,10 +26,10 @@ client:
   url:
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text:
+  first_CTA_URL:
+  second_CTA_text:
+  second_CTA_URL:
   phone_CTA: true
   VR_form:
 
@@ -62,8 +62,8 @@ podcast:
   categories:
   image:
   subtitle:
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  description: 
+  keywords: 
   author: '-- CLIENT NAME --'
 
 images:
@@ -71,7 +71,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 60rem
   hero_text: Richard A. Drews  |  Attorney at Law
-  hero_background_hex: '#094264'
+  hero_background_hex: '#eeeeee'
   hero_image_path: /img/background.jpg
 
 site_colors:
@@ -85,7 +85,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 0px
   shadow_spread: 0px
-  shadow_color: "#fff   "
+  shadow_color: "#fff"
 
 buttons:
   button_radius_number: 0px

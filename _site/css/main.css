@@ -2793,6 +2793,9 @@ form select {
 .navbar-left li a {
   color: #fff; }
 
+.whitespace {
+  margin-top: 3rem; }
+
 .fa-bars {
   color: #fff; }
 

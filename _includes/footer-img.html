@@ -1,0 +1,20 @@
+<header id="footer-hero">
+
+  {% if page.footer == "home" %}
+  <div class="footer-img" style="background-image: url({{site.data.settings.images.hero_image_path}}); background-color: {{site.data.settings.images.hero_background_hex}}"></div>
+
+  {% elsif page.footer == "location" %}
+  <div class="footer-img" style="background-image: url({{site.data.settings.images.hero_image_path2}}); background-color: {{site.data.settings.images.hero_background_hex}}"></div>
+
+  {% elsif page.footer == "practice" %}
+  <div class="footer-img" style="background-image: url({{site.data.settings.images.hero_image_path3}}); background-color: {{site.data.settings.images.hero_background_hex}}"></div>
+
+  {% elsif page.footer == "about" %}
+  <div class="footer-img" style="background-image: url({{site.data.settings.images.hero_image_path4}}); background-color: {{site.data.settings.images.hero_background_hex}}"></div>
+
+  {% else page.footer == "contact" %}
+  <div class="footer-img" style="background-image: url({{site.data.settings.images.hero_image_path5}}); background-color: {{site.data.settings.images.hero_background_hex}}"></div>
+
+  {% endif %}
+
+</header>

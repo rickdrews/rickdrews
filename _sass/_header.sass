@@ -1,9 +1,10 @@
 .hero-img
-	background-position: center
+	background-position: right
 	background-size: cover
-	padding-top: $nav-height + 5rem
+	height: 400px
 #hero
-	background-position: center
+	padding-top: $nav-height
+	background-position: right
 	background-size: cover
 	background-attachment: fixed
 	background-repeat: no-repeat
@@ -12,7 +13,6 @@
 .site-logo
 	width: 90%
 	max-width: $logo-width
-	@include filter(drop-shadow($header-shadow))
 
 .site-title
 	display: none
@@ -36,7 +36,7 @@
 
 @media (max-width: 600px)
 	#hero
-		// height: 31rem
+		padding-top: 60px
 	.site-logo
 		max-width: 30rem
 	.site-title

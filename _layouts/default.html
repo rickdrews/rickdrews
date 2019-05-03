@@ -4,15 +4,11 @@
 {% include head.html %}
 
 	<body>
-		{% if site.data.settings.audit_header == true %}
-			{% include audit.html %}
-		{% endif %}
 		{% include header.html %}
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-12">
 					{% include navigation.html %}
-					{% include contact-modal.html %}
 				</div>
 			</div>
 			<div class="row ">
@@ -34,6 +30,7 @@
 
 			</div>
 			{% include bottom-navigation.html %}
+			{% include footer-img.html %}
 			{% include footer.html %}
   </body>
 </html>

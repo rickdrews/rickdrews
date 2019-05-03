@@ -4,7 +4,6 @@
 	min-height: 65px
 	background: $theme
 	width: 100%
-	overflow: hidden
 
 .navbar-andross .navbar-brand
 	color: $brand
@@ -38,11 +37,28 @@
 	color: $brand
 
 .navbar-toggle
-	margin-top: 20px
+	margin-top: 10px
 
 .navbar
 	padding-right: 15px
 	padding-left: 15px
+
+
+.nav-logo
+	float: left !important
+	max-width: 250px
+	margin: 5px
+	padding: 10px
+
+@media (max-width: 768px)
+	.nav-logo
+		display: none
+	.hero-img
+		height: 300px
+
+	.nav-logo-small
+		max-width: 250px
+		margin-top: -20px
 
 @media(max-width: 347px)
 	.navbar-header

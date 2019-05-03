@@ -1,70 +1,18 @@
-audit_header: false
 title: Richard A Drews | Attorney at Law
 description: 'Your Omaha Legal Expert'
 show_custom_links: true
 custom_links:
   - title: Location and Hours
-    url: /location.html
+    url: /location
   - title: Practice Areas
-    url: /practice-areas.html
+    url: /practice-areas
   - title: About
-    url: /about.html
+    url: /about
 client:
   name: Richard A. Drews
-  license_number:
-  about_markdown: |
-
-  market:
-  brand:
-  brokerage:
   address: 7018 North 102nd Circle<br>Omaha, NE 68122
   phone: 402-391-3712
-  phone_type:
-  phone2:
-  phone2_type:
   email: rdrews98@gmail.com
-  url:
-
-CTAs:
-  first_CTA_text:
-  first_CTA_URL:
-  second_CTA_text:
-  second_CTA_URL:
-  phone_CTA: true
-  VR_form:
-
-sidebar_CTA:
-  CTA_image_path: /img/cta-images/004.jpg
-  CTA_title: Set up a consultation
-  CTA_text:
-  CTA_link_text: Set up a consultation
-  CTA_url:
-
-welcome_box:
-  welcome_headline:
-  welcome_text_markdown:
-socials:
-  review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
-
-podcast:
-  title:
-  categories:
-  image:
-  subtitle:
-  description: 
-  keywords: 
-  author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
@@ -72,7 +20,11 @@ images:
   logo_width_number: 60rem
   hero_text: Richard A. Drews  |  Attorney at Law
   hero_background_hex: '#eeeeee'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/home.jpg
+  hero_image_path2: /img/location.jpg
+  hero_image_path3: /img/practice.jpg
+  hero_image_path4: /img/about.jpg
+  hero_image_path5: /img/contact.jpg
 
 site_colors:
   brand_color: '#2C3246'

@@ -2,8 +2,16 @@
 layout: default
 title: About
 permalink: /about/
+hero: about
+footer: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
-
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+<div class="page">
+  <img src="/img/certificate.jpg" class="photo">
+  <p>Every year since 1992, Rick has received the AV rating from Martindale-Hubbell, which is the highest legal and ethical rating from his peers.</p>
+  <p>Rick has voluneered his legal services to the Douglas County Self-Help Desk, and is on the St. James Long-Term Planning Committee.  He has coached high school Mock Trial Teams, and was a long-time youth basketball coach at St. James/Seton School.  He is a baseball fan, and is working on his goal to attend a game in every major league stadium.</p>
+  <p>Rick and his wife Molly have three daughters and four grandchildren. Rick is a member of St. Elizabeth Ann Seton parish, and enjoys crossword puzzles, listening to music, and walking his dog.</p>
+  <div class="hidden-photo">
+    <img src="/img/certificate-small.jpg">
+  </div>
+</div>

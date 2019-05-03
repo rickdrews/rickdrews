@@ -1528,18 +1528,17 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 30rem; } }
 @media (max-width: 760px) {
   .site-logo {
-    max-width: 20rem;
-    margin-top: 4rem; }
+    max-width: 30rem;
+    margin-top: 2rem; }
 
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
   .site-logo {
-    max-width: 15rem;
-    margin-top: 2rem; }
+    max-width: 30rem; }
 
   .site-title {
     font-size: 3.5rem; }
@@ -2322,6 +2321,26 @@ table tr, table td {
   max-width: 350px;
   margin-bottom: 0; }
 
+@media (max-width: 760px) {
+  .client-image-container {
+    width: 125px;
+    height: 125px; }
+
+  .client-image {
+    max-width: 125px; } }
+@media (max-width: 600px) {
+  .client-image-container {
+    width: 125px;
+    height: 125px; }
+
+  .client-image {
+    max-width: 125px; } }
+@media (max-width: 400px) {
+  .client-image-container {
+    display: none; }
+
+  .client-image {
+    display: none; } }
 .footer {
   background: #2c3245;
   color: #353535;
@@ -2789,6 +2808,11 @@ form select {
   margin-right: 20px;
   width: 300px; }
 
+.office-photo {
+  float: right;
+  margin-left: 20px;
+  width: 300px; }
+
 .practice-area {
   margin: 0 0 20px 20px;
   width: 90%; }
@@ -2822,4 +2846,94 @@ form select {
 .page {
   margin-top: 50px;
   margin-bottom: 100px;
-  text-align: justify; }
+  text-align: left; }
+  .page h3 {
+    text-align: left; }
+
+.hidden-photo {
+  display: none; }
+
+.hidden-image-container {
+  display: none; }
+
+.hidden-image {
+  display: none; }
+
+.hidden-links {
+  display: none; }
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0; }
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+@media (max-width: 760px) {
+  .page {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: left; }
+
+  .hidden-links {
+    display: block; }
+
+  .practice-title {
+    display: none; } }
+@media (max-width: 600px) {
+  .page {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: left; }
+
+  .photo {
+    max-width: 200px; }
+
+  .hidden-links {
+    display: block; }
+
+  .practice-title {
+    display: none; }
+
+  .office-photo {
+    max-width: 200px; } }
+@media (max-width: 400px) {
+  .page {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: left; }
+
+  .photo {
+    display: none; }
+
+  .hidden-photo {
+    display: block;
+    margin: 10px auto; }
+
+  .hidden-image-container {
+    display: block;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #2C3246;
+    margin: 10px auto;
+    overflow: hidden; }
+
+  .hidden-image {
+    display: block;
+    max-width: 200px; }
+
+  .hidden-links {
+    display: block; }
+
+  .practice-title {
+    display: none; }
+
+  .office-photo {
+    max-width: 200px; } }

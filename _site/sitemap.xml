@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://rickdrews.com/404.html</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://rickdrews.com/about/</loc>
+<loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
-<loc>http://rickdrews.com/contact/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://rickdrews.com/</loc>
+<loc>http://localhost:4000/location/</loc>
 </url>
 <url>
-<loc>http://rickdrews.com/location/</loc>
+<loc>http://localhost:4000/practice-areas/</loc>
 </url>
 <url>
-<loc>http://rickdrews.com/practice-areas/</loc>
-</url>
-<url>
-<loc>http://rickdrews.com/thankyou/</loc>
+<loc>http://localhost:4000/thankyou/</loc>
 </url>
 </urlset>

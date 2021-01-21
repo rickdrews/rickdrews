@@ -29,11 +29,7 @@ footer: practice
 	  <li>Personal Injury</li>
 	  <li>Auto Accidents</li>
 	  <li>Wrongful Death</li>
-	  <li>Foreclosure and Repossession</li>
 	  <li>Contracts</li>
-	  <li>Employment claims</li>
-	  <li>Insurance disputes</li>
-	  <li>Fraud and misrepresentation claims</li>
 	  <li>Probate claims</li>
 	  <li>Collection actions</li>
 	</ul></p>

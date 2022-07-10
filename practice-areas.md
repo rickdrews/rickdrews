@@ -23,7 +23,7 @@ footer: practice
 	<h3><a name="probate" class="practice">Estate Administration and Probate</a></h3>
 	<p>Rick also provides legal representation in the administration of estates, whether in probate court or not, and has represented those acting as personal representative, executor, guardian, conservator and/or trustee to protect the interests of those acting on behalf of an estate or another person. He has worked closely with accountants, insurance professionals and retirement account administrators in the preparation of estate plans and the administration of estates to meet the needs of each situation.</p>
 	<hr>
-	<h3><a name="litigation" class="practice">Litigation and Trial Practice</a></h3>
+	<!-- <h3><a name="litigation" class="practice">Litigation and Trial Practice</a></h3>
 	<p>Rick Drews has over 30 years' experience in litigation and trials throughout the state courts of Nebraska. He has successfully represented individuals and companies in claims involving many areas of the law, including the following:
 	<ul class="indent">
 	  <li>Personal Injury</li>
@@ -32,6 +32,6 @@ footer: practice
 	  <li>Contracts</li>
 	  <li>Probate claims</li>
 	  <li>Collection actions</li>
-	</ul></p>
+	</ul></p> -->
 	<p>In 2013, Rick successfully represented the plaintiffs in recovering their unpaid wages in the landmark case of Fisher v. PayFlex Systems USA, 285 Neb. 808, 829 N.W.2d 703 (Neb. 2013). In this case, the Nebraska Supreme Court ruled that all Nebraska employees are entitled to receive their earned but unused PTO (paid time off) at the end of their employment.</p>
 	<p>In addition to his years of courtroom experience, Rick has been certified as a mediator in the State of Nebraska. His training and experience in these many areas and different types of cases has allowed him to develop practical and effective strategies for obtaining the successful resolution of claims, whether by judgment or settlement.</p>

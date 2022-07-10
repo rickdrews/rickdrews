@@ -33,5 +33,5 @@ footer: practice
 	  <li>Probate claims</li>
 	  <li>Collection actions</li>
 	</ul></p> -->
-	<p>In 2013, Rick successfully represented the plaintiffs in recovering their unpaid wages in the landmark case of Fisher v. PayFlex Systems USA, 285 Neb. 808, 829 N.W.2d 703 (Neb. 2013). In this case, the Nebraska Supreme Court ruled that all Nebraska employees are entitled to receive their earned but unused PTO (paid time off) at the end of their employment.</p>
-	<p>In addition to his years of courtroom experience, Rick has been certified as a mediator in the State of Nebraska. His training and experience in these many areas and different types of cases has allowed him to develop practical and effective strategies for obtaining the successful resolution of claims, whether by judgment or settlement.</p>
+	<!-- <p>In 2013, Rick successfully represented the plaintiffs in recovering their unpaid wages in the landmark case of Fisher v. PayFlex Systems USA, 285 Neb. 808, 829 N.W.2d 703 (Neb. 2013). In this case, the Nebraska Supreme Court ruled that all Nebraska employees are entitled to receive their earned but unused PTO (paid time off) at the end of their employment.</p>
+	<p>In addition to his years of courtroom experience, Rick has been certified as a mediator in the State of Nebraska. His training and experience in these many areas and different types of cases has allowed him to develop practical and effective strategies for obtaining the successful resolution of claims, whether by judgment or settlement.</p> -->
